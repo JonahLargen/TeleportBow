@@ -1,0 +1,6 @@
+name: TeleportBow
+version: 1.0
+main: me.jonah.TeleportBow.TeleportBow
+description: TeleportBow by BossesCraftCake
+commands:
+  reloadteleportbow:
